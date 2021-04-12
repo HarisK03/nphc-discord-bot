@@ -16,7 +16,7 @@ This North Park Hack Club Discord Bot was created as a result of the large popul
 
 ## Roadmap ##
 
-See the [open issues](https://github.com/HarisK03/minesweeper/issues/ "Issues") for a list of proposed features (and known issues).
+See the [open issues](https://github.com/HarisK03/nphc-discord-bot/issues "Issues") for a list of proposed features (and known issues).
 
 ## Contact ##
 
