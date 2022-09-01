@@ -10,7 +10,7 @@ Date Created: April 2021
 
 ## About The Project ##
 
-This North Park Hack Club Discord Bot was created as a result of the large population of our North Park Hack Club. In order to optimize moderation in addition to adding fun commands, this Discord bot was created. You can find the exaustive list of commands [here](http://nphcdiscord.ml/).
+This North Park Hack Club Discord Bot was created as a result of the large population of our North Park Hack Club. In order to optimize moderation in addition to adding fun commands, this Discord bot was created. You can find the exaustive list of commands [here](http://nphcdiscord.ml/) [Inactive].
 
 ![alt text](https://i.imgur.com/MJ81b0z.png)
 
